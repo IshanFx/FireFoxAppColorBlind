@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "name": "Color Blind Test",
+  "description": "Test Your Colour Blind",
+  "launch_path": "/index.html",
+  "icons": {
+    "48": "/img/icons/icon48x48.png",
+    "128": "/img/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Ishan Udeshka Fernando"
+   
+  },
+ 
+  "default_locale": "en"
+}
